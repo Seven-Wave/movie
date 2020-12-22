@@ -1,4 +1,4 @@
-# movie
+# Movie
 Movie app. 
 
 ## Link: 
